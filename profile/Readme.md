@@ -18,6 +18,7 @@ SketchXpress is an interactive web application that allows users to create digit
 - Age-appropriate tools and features
 - No blockchain interactions or NFT minting
 - Collectibles gallery to save generated artwork
+- Switch to promode with parental permissions
 
 ### Pro Mode (18+)
 - Advanced drawing tools and settings
