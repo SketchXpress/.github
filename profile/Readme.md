@@ -59,9 +59,8 @@ SketchXpress is an interactive web application that allows users to create digit
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: Next.js, TypeScript, Typescript, Tailwind
-- **Backend**: Rust, Anchor, Python
-- **Backend**: Shell
+- **Frontend**: Next.js, TypeScript, Tailwind
+- **Backend**: Rust, Anchor, Python, Shell
 
 ## 🔒 Age Verification
 
