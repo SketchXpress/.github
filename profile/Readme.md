@@ -51,11 +51,22 @@ SketchXpress is an interactive web application that allows users to create digit
 4. Save your favorite result to your collectibles or download it
 
 ### NFT Minting (Pro Mode)
-1. Connect your wallet (MetaMask, Phantom, or WalletConnect)
+1. Connect your wallet (Phantom preferred)
 2. Generate artwork using the AI tools
 3. Select your favorite generated image
-4. Click "Mint as NFT" to create your NFT
-5. Configure NFT properties and complete the minting process
+4. Click "Mint as NFT" to create your NFT from sketch
+5. Check it in your collectibles
+
+### Bonding Curve & Tensor Integratione (Pro Mode)
+1. Dynamic Bonding Curve: NFT prices start low (0.1 SOL) and automatically increase as more are purchased, rewarding early buyers.
+2. Milestone Graduation: When a collection reaches 69,000 USD market cap and 100 unique holders, it “graduates” to the Tensor marketplace.
+3. Creator Rewards: Upon graduation, the collection creator receives a 0.5 SOL reward.
+4.Advanced Trading: Graduated collections gain access to advanced trading tools, analytics, and deeper liquidity on Tensor.
+5. Milestone Graduation: When a collection reaches 69,000 USD market cap and 100 unique holders, it “graduates” to the Tensor marketplace.
+6. Seamless Minting & Trading: NFTs are minted directly into the bonding curve system with a 2% fee on trades before graduation.
+7. Smooth Integration: The platform integrates with Solana and Tensor, ensuring easy migration and exposure to a larger audience as your collection grows.
+
+
 
 ## 🛠️ Technologies Used
 
