@@ -51,7 +51,7 @@ SketchXpress is an interactive web application that allows users to create digit
 4. Save your favorite result to your collectibles or download it
 
 ### NFT Minting (Pro Mode)
-1. Connect your wallet (Phantom preferred)
+1. Connect your wallet (Solflare preferred)
 2. Generate artwork using the AI tools
 3. Select your favorite generated image
 4. Click "Mint as NFT" to create your NFT from sketch
