@@ -59,11 +59,9 @@ SketchXpress is an interactive web application that allows users to create digit
 
 ### Bonding Curve & Tensor Integratione (Pro Mode)
 1. Dynamic Bonding Curve: NFT prices start low (0.1 SOL) and automatically increase as more are purchased, rewarding early buyers.
-2. Milestone Graduation: When a collection reaches 69,000 USD market cap and 100 unique holders, it “graduates” to the Tensor marketplace.
+2. Milestone Graduation: When a collection reaches 690 SOL market cap and 100 unique holders, it “graduates” to the Tensor marketplace.
 3. Creator Rewards: Upon graduation, the collection creator receives a 0.5 SOL reward.
-4.Advanced Trading: Graduated collections gain access to advanced trading tools, analytics, and deeper liquidity on Tensor.
-5. Milestone Graduation: When a collection reaches 69,000 USD market cap and 100 unique holders, it “graduates” to the Tensor marketplace.
-6. Seamless Minting & Trading: NFTs are minted directly into the bonding curve system with a 2% fee on trades before graduation.
+6. Seamless Minting & Trading: NFTs are minted directly into the bonding curve system with dynamic pricing and Penalizing fee of 5% on withdrawl.
 7. Smooth Integration: The platform integrates with Solana and Tensor, ensuring easy migration and exposure to a larger audience as your collection grows.
 
 
